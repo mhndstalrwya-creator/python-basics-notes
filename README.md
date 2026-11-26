@@ -1,3 +1,33 @@
+<div align="center">
+  <img src="https://img.shields.io/badge/PYTHON%20BASICS%20NOTES-Learn%20by%20Practice-4b438f?style=for-the-badge&logo=python&logoColor=white" alt="Python Basics Notes" />
+  <h1>🐍 Python Basics Notes</h1>
+  <p><b>A friendly beginner guide to Python fundamentals, examples, exercises, and learning steps.</b></p>
+  <img src="https://img.shields.io/badge/Python-d9d3f5?style=flat-square&logo=python&logoColor=4b438f" alt="Python" />
+  <img src="https://img.shields.io/badge/Beginner%20Friendly-d5eee7?style=flat-square&logo=bookstack&logoColor=26735a" alt="Beginner friendly" />
+  <img src="https://img.shields.io/badge/Examples-f9edb7?style=flat-square&logo=codepen&logoColor=756512" alt="Examples" />
+</div>
+
+> **Start simple, practice often, and let every error teach you something.**
+
+## ✦ Inside this notebook
+
+<table>
+  <tr>
+    <td width="50%" valign="top"><b>📘 Core Concepts</b><br />Variables, data types, conditions, loops, lists, and functions.</td>
+    <td width="50%" valign="top"><b>🧩 Short Examples</b><br />Small snippets designed to be read, changed, and executed.</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><b>🛠 Practice Ideas</b><br />Beginner projects such as calculators, games, and converters.</td>
+    <td width="50%" valign="top"><b>☁ Learning Roadmap</b><br />A gradual path from first steps to object-oriented programming.</td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python&theme=light" alt="Python icon" />
+</div>
+
+---
+
 # ملاحظات أساسية حول لغة Python
 
 مستودع تعليمي مبسط للمبتدئين في لغة **Python**. يشرح المفاهيم الأولى بطريقة عملية مع أمثلة قصيرة قابلة للتجربة، ويمكن استخدامه كمذكرة مراجعة أو نقطة بداية لبناء مشاريع صغيرة.
